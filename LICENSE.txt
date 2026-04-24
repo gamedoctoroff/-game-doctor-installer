@@ -1,0 +1,107 @@
+Game Doctor — Contrat de Licence Utilisateur Final (CLUF)
+Copyright © 2025 Game Doctor. Tous droits réservés.
+
+Dernière mise à jour : 24 avril 2026
+
+En installant, copiant ou utilisant Game Doctor (« le Logiciel »), vous
+acceptez les termes du présent contrat. Si vous n'êtes pas d'accord avec ces
+termes, vous ne devez pas installer ni utiliser le Logiciel.
+
+1. CONCESSION DE LICENCE
+   Game Doctor vous accorde une licence personnelle, non exclusive,
+   non transférable et révocable pour installer et utiliser le Logiciel sur
+   les ordinateurs dont vous êtes l'utilisateur légitime, dans les limites
+   décrites ci-dessous.
+
+2. FORMULES D'UTILISATION
+
+   2.1. Formule Gratuite
+        La formule gratuite permet l'utilisation du Logiciel avec les
+        fonctionnalités et limitations suivantes :
+          • 2 analyses complètes
+          • Score global de performance
+          • Détection des problèmes
+
+   2.2. Formule Premium (abonnement)
+        L'abonnement Premium est proposé au tarif de 9,99 € TTC par mois.
+        Il débloque l'ensemble des fonctionnalités suivantes :
+          • Analyses illimitées
+          • Score global et détaillé
+          • Détection automatique avancée
+          • Monitoring en temps réel
+          • Analyse en jeu (overlay)
+          • Optimisation continue 24/7
+
+        L'abonnement est renouvelé automatiquement à chaque période de
+        facturation, sauf résiliation préalable de votre part. Vous pouvez
+        résilier à tout moment depuis votre espace client ; la résiliation
+        prend effet à la fin de la période en cours.
+
+3. PAIEMENT ET REMBOURSEMENT
+   Le paiement de l'abonnement Premium est effectué à l'avance, pour la
+   période choisie (mensuelle). Conformément à l'article L221-28 du Code
+   de la consommation français, vous disposez d'un droit de rétractation
+   de 14 jours à compter de la souscription initiale, sauf si vous avez
+   expressément demandé à bénéficier immédiatement des fonctionnalités
+   Premium et reconnu renoncer à ce droit. Aucun remboursement n'est dû
+   au prorata en cas de résiliation en cours de période.
+
+4. RESTRICTIONS D'USAGE
+   Vous vous engagez à ne pas :
+     a) redistribuer, revendre, louer ou prêter le Logiciel, en tout ou
+        partie, sous quelque forme que ce soit ;
+     b) modifier, décompiler, désassembler, faire de l'ingénierie inverse
+        ou tenter d'extraire le code source du Logiciel, sauf dans la
+        mesure où la loi applicable l'autorise expressément ;
+     c) contourner, désactiver ou altérer les mécanismes de licence, de
+        vérification d'abonnement ou de limitation de la formule gratuite ;
+     d) utiliser le Logiciel à des fins illégales ou pour porter atteinte
+        aux droits d'un tiers ;
+     e) partager ou céder votre compte, vos identifiants ou votre clé de
+        licence à un tiers.
+
+5. PROPRIÉTÉ INTELLECTUELLE
+   Le Logiciel et l'ensemble de ses composants (code, interface, logos,
+   marque, documentation) restent la propriété exclusive de Game Doctor.
+   La présente licence ne vous transfère aucun droit de propriété ; elle
+   ne vous confère qu'un droit d'usage dans les limites définies.
+
+6. DONNÉES ET VIE PRIVÉE
+   Le Logiciel peut collecter des informations techniques sur votre
+   système (configuration matérielle, processus en cours, métriques de
+   performance) strictement nécessaires à son fonctionnement. Le traitement
+   de ces données est décrit dans notre Politique de Confidentialité
+   disponible sur https://gamedoctor-v1.netlify.app.
+
+7. MISES À JOUR
+   Game Doctor peut publier des mises à jour pour corriger des bugs,
+   améliorer les performances ou ajouter des fonctionnalités. Ces mises à
+   jour sont soumises au présent contrat, sauf mention contraire.
+
+8. GARANTIES ET RESPONSABILITÉ
+   Le Logiciel est fourni « tel quel », sans aucune garantie expresse ou
+   implicite, notamment concernant l'adéquation à un usage particulier,
+   l'absence de bugs ou l'exactitude des recommandations d'optimisation.
+   Dans toute la mesure permise par la loi applicable, Game Doctor ne
+   pourra être tenu responsable des dommages indirects, pertes de données,
+   pertes de performance matérielle ou dysfonctionnements résultant de
+   l'utilisation du Logiciel. Rien dans le présent contrat ne limite la
+   responsabilité légale de Game Doctor en cas de faute lourde, dol ou
+   dommage corporel.
+
+9. RÉSILIATION
+   Cette licence est valable tant que vous respectez ses termes. Game
+   Doctor peut la résilier en cas de manquement à ces termes, notamment
+   en cas de contournement des limites de la formule gratuite ou de
+   partage non autorisé de compte. En cas de résiliation, vous devez
+   désinstaller le Logiciel et cesser toute utilisation.
+
+10. LOI APPLICABLE ET LITIGES
+    Le présent contrat est régi par le droit français. Tout litige relatif
+    à son interprétation ou à son exécution relèvera de la compétence
+    exclusive des tribunaux français, sous réserve des dispositions
+    impératives applicables aux consommateurs.
+
+11. CONTACT
+    Pour toute question relative à la présente licence, à votre abonnement
+    ou à vos données, contactez-nous via https://gamedoctor-v1.netlify.app.
